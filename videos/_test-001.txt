@@ -1,6 +1,0 @@
-Test Title
-
-This is a test caption.
-Second line of caption.
-
-#one #two #three
