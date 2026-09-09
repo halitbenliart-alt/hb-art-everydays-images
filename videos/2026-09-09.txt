@@ -1,6 +1,0 @@
-Everyday 015
-
-Rust tones, with a white block cutting across. Still experimenting with sound.
-Made in @touchdesigner
-
-#touchdesigner #generativeart #proceduralart #reactiondiffusion #creativecoding
